@@ -2,7 +2,12 @@
 
 ## Introduction
 
-The Realtime Code Editor is a web-based code editor that allows multiple users to edit the same codebase simultaneously in realtime. It is built with React.js, Node.js, Socket.IO, and Tailwind CSS. You can find the Live Demo  at https://musical-khapse-5244f7.netlify.app/.
+The Realtime Code Editor is a web-based code editor that allows multiple users to edit the same codebase simultaneously in realtime. It is built with React.js, Node.js, Socket.IO, and Tailwind CSS. You can find the Live Demo  at [https://musical-khapse-5244f7.netlify.app/.](https://shorturl.at/oqyGV)
+
+<img width="887" alt="code-editor-2" src="https://github.com/Naveen-7000/Realtime-code-editor/assets/79650422/0ddc8ec8-d763-435c-9092-65c1dc5306ba">
+<img width="881" alt="code-editor-3" src="https://github.com/Naveen-7000/Realtime-code-editor/assets/79650422/ade37016-6a22-46c5-bd23-66767a367984">
+
+
 
 ## Features
 
@@ -15,7 +20,7 @@ The Realtime Code Editor is a web-based code editor that allows multiple users t
 
 To install and run the Realtime Code Editor locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/Devil5614737/realtime-code-editor`
+1. Clone the repository: `git clone https://github.com/Naveen-7000/Realtime-code-editor`
 2. Navigate to the project directory: `cd realtime-code-editor`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
